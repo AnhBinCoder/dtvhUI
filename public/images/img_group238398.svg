@@ -1,0 +1,23 @@
+<svg width="637" height="252" viewBox="0 0 637 252" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 251.5H637" stroke="#25282C" stroke-opacity="0.5" stroke-dasharray="5 5"/>
+<path d="M0 188.5H637" stroke="#25282C" stroke-opacity="0.5" stroke-dasharray="5 5"/>
+<path d="M0 125.5H637" stroke="#25282C" stroke-opacity="0.5" stroke-dasharray="5 5"/>
+<path d="M0 63.5H637" stroke="#25282C" stroke-opacity="0.5" stroke-dasharray="5 5"/>
+<path d="M0 0.5H637" stroke="#25282C" stroke-opacity="0.5" stroke-dasharray="5 5"/>
+<rect y="125.5" width="26" height="126" fill="#FFD5F4"/>
+<rect x="26" y="63.5" width="26" height="188" fill="#D64BC2"/>
+<rect x="82" y="80.5" width="26" height="171" fill="#FFD5F4"/>
+<rect x="108" y="116.5" width="26" height="135" fill="#D64BC2"/>
+<rect x="163" y="149.5" width="26" height="102" fill="#FFD5F4"/>
+<rect x="189" y="97.5" width="26" height="154" fill="#D64BC2"/>
+<rect x="243" y="13.5" width="26" height="238" fill="#FFD5F4"/>
+<rect x="269" y="109.5" width="26" height="142" fill="#D64BC2"/>
+<rect x="326" y="97.5" width="26" height="154" fill="#FFD5F4"/>
+<rect x="352" y="36.5" width="26" height="215" fill="#D64BC2"/>
+<rect x="409" y="165.5" width="26" height="86" fill="#FFD5F4"/>
+<rect x="435" y="122.5" width="26" height="129" fill="#D64BC2"/>
+<rect x="487" y="83.5" width="26" height="168" fill="#FFD5F4"/>
+<rect x="513" y="0.5" width="26" height="251" fill="#D64BC2"/>
+<rect x="567" y="103.5" width="26" height="148" fill="#FFD5F4"/>
+<rect x="593" y="125.5" width="26" height="126" fill="#D64BC2"/>
+</svg>
